@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Brain"
+  short_description: "Ground repository work in its external brain"
+  default_prompt: "Use $project-brain to consult the configured external Project Brain before working on this repository."
